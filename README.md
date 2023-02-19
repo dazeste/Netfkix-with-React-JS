@@ -1,1 +1,2 @@
 # Netfkix-with-React-JS
+<p> I build React JS Netflix clone with a Firebase back-end! I use the TMDB API for all of the data and I am using Firebase Authentication to give login functionality. It be able store user specific data with a React front-end and a Firebase back-end. I use Firestore which is cloud storage with Firebase to save data and the front-end is styled with Tailwind CSS - an incredible CSS framework to save time styling my app.</p>
